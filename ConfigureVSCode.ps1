@@ -1,0 +1,1 @@
+New-Item -Path $env:APPDATA\Code\User\settings.json -ItemType SymbolicLink -Value 'D:\Workspace\dotfiles\home\Library\Application Support\Code\User\settings.json' -Force
